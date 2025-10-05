@@ -26,9 +26,9 @@ EOF
 AGENT_COUNT=0
 while IFS= read -r file; do
     # Extract frontmatter using awk (YAML-style)
-    name=$(awk '/^name:/ {$1=""; print substr($0,2); exit}' "$file" | xargs)
-    desc=$(awk '/^description:/ {$1=""; print substr($0,2); exit}' "$file" | xargs)
-    tools=$(awk '/^tools:/ {$1=""; print substr($0,2); exit}' "$file" | xargs)
+    name=$(awk '/^name:/ {$1=""; print substr($0,2); exit}' "$file" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+    desc=$(awk '/^description:/ {$1=""; print substr($0,2); exit}' "$file" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+    tools=$(awk '/^tools:/ {$1=""; print substr($0,2); exit}' "$file" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
 
     # Skip if no name
     [ -z "$name" ] && continue
