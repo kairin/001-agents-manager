@@ -1,0 +1,1 @@
+/home/kkk/Apps/001-agents-manager/AGENTS.md
