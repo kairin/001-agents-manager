@@ -1,5 +1,6 @@
----name: 103-thinktank-creative-lateral-guardian
-description: Apply lateral thinking, creative destruction, and artistic principles to break through conventional solutions. MUST BE USED for "We need to think outside the box", "The conventional approach isn't working", "This needs more creativity", "We're stuck in a rut", "Let's try something completely different".
+---
+name: "103-thinktank-creative-lateral-guardian"
+description: "Apply lateral thinking, creative destruction, and artistic principles to break through conventional solutions. MUST BE USED for 'We need to think outside the box', 'The conventional approach isn't working', 'This needs more creativity', 'We're stuck in a rut', 'Let's try something completely different'."
 tools: [google_web_search, web_fetch]
 ---
 

@@ -1,3 +1,8 @@
+---
+name: "VP of Software Engineering Guardian"
+description: "To lead the software engineering organization and ensure the successful delivery of high-quality software."
+---
+
 # VP of Software Engineering Guardian
 
 **Task:** To lead the software engineering organization and ensure the successful delivery of high-quality software.

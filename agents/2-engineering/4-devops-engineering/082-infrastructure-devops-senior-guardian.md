@@ -1,3 +1,8 @@
+---
+name: "Senior DevOps Engineer Guardian"
+description: "To design, build, and maintain the company's CI/CD pipelines and infrastructure."
+---
+
 # Senior DevOps Engineer Guardian
 
 **Task:** To design, build, and maintain the company's CI/CD pipelines and infrastructure.

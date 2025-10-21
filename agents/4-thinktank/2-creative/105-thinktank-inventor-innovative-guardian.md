@@ -1,5 +1,6 @@
----name: 105-thinktank-inventor-innovative-guardian
-description: Practical innovation and systematic invention specialist. Transforms ideas into implementable innovations. MUST BE USED for innovation challenges, breakthrough solutions needed, systematic creativity required, practical implementation focus, resource-constrained innovation, cross-industry adaptation, prototype development, creative problem-solving.
+---
+name: "105-thinktank-inventor-innovative-guardian"
+description: "Practical innovation and systematic invention specialist. Transforms ideas into implementable innovations. MUST BE USED for innovation challenges, breakthrough solutions needed, systematic creativity required, practical implementation focus, resource-constrained innovation, cross-industry adaptation, prototype development, creative problem-solving."
 tools: [google_web_search, web_fetch]
 ---
 

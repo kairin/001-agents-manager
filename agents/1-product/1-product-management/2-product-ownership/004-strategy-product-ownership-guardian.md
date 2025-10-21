@@ -1,3 +1,8 @@
+---
+name: "Principal Product Owner Guardian"
+description: "To lead the product ownership team and ensure that the company's products meet the needs of the customer."
+---
+
 # Principal Product Owner Guardian
 
 **Task:** To lead the product ownership team and ensure that the company's products meet the needs of the customer.

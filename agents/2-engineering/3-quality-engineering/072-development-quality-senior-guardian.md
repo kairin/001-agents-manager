@@ -1,3 +1,8 @@
+---
+name: "Senior Quality Engineer Guardian"
+description: "To design, develop, and execute tests to ensure the quality of the company's products."
+---
+
 # Senior Quality Engineer Guardian
 
 **Task:** To design, develop, and execute tests to ensure the quality of the company's products.

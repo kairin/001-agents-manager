@@ -1,4 +1,5 @@
 ---
+name: "Threat Intelligence Agent"
 title: "Threat Intelligence Agent"
 description: "Gathers, analyzes, and disseminates intelligence about cyber threats."
 version: 1.0

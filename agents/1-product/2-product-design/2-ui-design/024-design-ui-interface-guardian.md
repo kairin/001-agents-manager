@@ -1,3 +1,8 @@
+---
+name: "UI Designer Guardian"
+description: "To design beautiful and intuitive user interfaces for the company's products."
+---
+
 # UI Designer Guardian
 
 **Task:** To design beautiful and intuitive user interfaces for the company's products.

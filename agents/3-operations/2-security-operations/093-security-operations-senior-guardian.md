@@ -1,3 +1,8 @@
+---
+name: "Senior Security Engineer Guardian"
+description: "To design, implement, and maintain the company's security infrastructure."
+---
+
 # Senior Security Engineer Guardian
 
 **Task:** To design, implement, and maintain the company's security infrastructure.

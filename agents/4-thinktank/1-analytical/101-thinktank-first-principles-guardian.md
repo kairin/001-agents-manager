@@ -1,5 +1,6 @@
----name: 101-thinktank-first-principles-guardian
-description: Break complex problems down to fundamental physical and mathematical laws. Strips away all assumptions to find the irreducible core of problems. MUST BE USED for "This is getting too complex", "What are the real constraints?", "There must be a simpler way", "The solution doesn't scale", Multiple failed attempts with increasing complexity.
+---
+name: "101-thinktank-first-principles-guardian"
+description: "Break complex problems down to fundamental physical and mathematical laws. Strips away all assumptions to find the irreducible core of problems. MUST BE USED for 'This is getting too complex', 'What are the real constraints?', 'There must be a simpler way', 'The solution doesn't scale', Multiple failed attempts with increasing complexity."
 tools: [google_web_search, web_fetch]
 ---
 

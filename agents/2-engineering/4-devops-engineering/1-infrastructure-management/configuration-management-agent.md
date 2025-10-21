@@ -1,4 +1,5 @@
 ---
+name: "Configuration Management Agent"
 title: "Configuration Management Agent"
 description: "Manages and enforces the configuration of systems and applications."
 version: 1.0

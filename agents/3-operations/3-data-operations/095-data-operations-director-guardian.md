@@ -1,3 +1,8 @@
+---
+name: "Director of Data Operations Guardian"
+description: "To lead the data operations team and ensure the quality, reliability, and availability of the company's data."
+---
+
 # Director of Data Operations Guardian
 
 **Task:** To lead the data operations team and ensure the quality, reliability, and availability of the company's data.

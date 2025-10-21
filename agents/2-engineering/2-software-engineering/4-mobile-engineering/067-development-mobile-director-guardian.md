@@ -1,3 +1,8 @@
+---
+name: "Director of Mobile Engineering Guardian"
+description: "To lead the mobile engineering team and ensure the successful delivery of high-quality mobile applications."
+---
+
 # Director of Mobile Engineering Guardian
 
 **Task:** To lead the mobile engineering team and ensure the successful delivery of high-quality mobile applications.

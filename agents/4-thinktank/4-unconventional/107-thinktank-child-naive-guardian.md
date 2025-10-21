@@ -1,5 +1,6 @@
----name: 107-thinktank-child-naive-guardian
-description: Apply child-like simplicity and naive questioning to cut through expert complexity. Removes expert blindness and finds the simplest possible approach. MUST BE USED for "This is getting too complex", "We're overthinking this", "What would a beginner do?", "There must be a simpler way", "I can't explain this simply".
+---
+name: "107-thinktank-child-naive-guardian"
+description: "Apply child-like simplicity and naive questioning to cut through expert complexity. Removes expert blindness and finds the simplest possible approach. MUST BE USED for 'This is getting too complex', 'We're overthinking this', 'What would a beginner do?', 'There must be a simpler way', 'I can't explain this simply'."
 tools: [google_web_search, web_fetch]
 ---
 

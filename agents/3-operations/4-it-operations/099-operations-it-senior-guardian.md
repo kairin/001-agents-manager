@@ -1,3 +1,8 @@
+---
+name: "Senior IT Support Specialist Guardian"
+description: "To provide technical support to the company's employees and ensure the reliability of the company's IT systems."
+---
+
 # Senior IT Support Specialist Guardian
 
 **Task:** To provide technical support to the company's employees and ensure the reliability of the company's IT systems.

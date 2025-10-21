@@ -1,3 +1,8 @@
+---
+name: "Director of IT Operations Guardian"
+description: "To lead the IT operations team and ensure the reliability and availability of the company's IT systems."
+---
+
 # Director of IT Operations Guardian
 
 **Task:** To lead the IT operations team and ensure the reliability and availability of the company's IT systems.

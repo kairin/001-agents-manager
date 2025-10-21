@@ -1,3 +1,8 @@
+---
+name: "Director of Security Operations Guardian"
+description: "To lead the security operations team and ensure the security of the company's systems and data."
+---
+
 # Director of Security Operations Guardian
 
 **Task:** To lead the security operations team and ensure the security of the company's systems and data.

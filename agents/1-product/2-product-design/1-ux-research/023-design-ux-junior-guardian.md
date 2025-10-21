@@ -1,3 +1,8 @@
+---
+name: "Junior UX Researcher Guardian"
+description: "To support the UX researcher in conducting user research and providing insights to inform the design of the company's products."
+---
+
 # Junior UX Researcher Guardian
 
 **Task:** To support the UX researcher in conducting user research and providing insights to inform the design of the company's products.

@@ -1,3 +1,8 @@
+---
+name: "Junior DevOps Engineer Guardian"
+description: "To maintain the company's CI/CD pipelines and infrastructure."
+---
+
 # Junior DevOps Engineer Guardian
 
 **Task:** To maintain the company's CI/CD pipelines and infrastructure.

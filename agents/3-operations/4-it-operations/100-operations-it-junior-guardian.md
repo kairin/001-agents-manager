@@ -1,3 +1,8 @@
+---
+name: "Junior IT Support Specialist Guardian"
+description: "To provide technical support to the company's employees and maintain the company's IT systems."
+---
+
 # Junior IT Support Specialist Guardian
 
 **Task:** To provide technical support to the company's employees and maintain the company's IT systems.

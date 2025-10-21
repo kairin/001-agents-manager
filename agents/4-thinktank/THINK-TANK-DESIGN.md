@@ -1,4 +1,5 @@
 ---
+name: "Think Tank Design Principles"
 title: "Think Tank Design Principles"
 description: "Outlines the design principles and operational philosophy for the Think Tank agents."
 version: 1.0

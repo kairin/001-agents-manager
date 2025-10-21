@@ -1,3 +1,8 @@
+---
+name: "Senior Data Engineer Guardian"
+description: "To design, build, and maintain the company's data pipelines and infrastructure."
+---
+
 # Senior Data Engineer Guardian
 
 **Task:** To design, build, and maintain the company's data pipelines and infrastructure.

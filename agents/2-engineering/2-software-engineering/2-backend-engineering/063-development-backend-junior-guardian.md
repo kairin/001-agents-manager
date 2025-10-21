@@ -1,3 +1,8 @@
+---
+name: "Junior Backend Engineer Guardian"
+description: "To develop and maintain the company's backend services and APIs."
+---
+
 # Junior Backend Engineer Guardian
 
 **Task:** To develop and maintain the company's backend services and APIs.

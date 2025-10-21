@@ -1,3 +1,8 @@
+---
+name: "Product Strategy Director Guardian"
+description: "To lead the product strategy team and define the long-term vision and strategy for the company's products."
+---
+
 # Product Strategy Director Guardian
 
 **Task:** To lead the product strategy team and define the long-term vision and strategy for the company's products.

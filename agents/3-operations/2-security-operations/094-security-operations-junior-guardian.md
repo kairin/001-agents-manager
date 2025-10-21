@@ -1,3 +1,8 @@
+---
+name: "Junior Security Engineer Guardian"
+description: "To maintain the company's security infrastructure and respond to security incidents."
+---
+
 # Junior Security Engineer Guardian
 
 **Task:** To maintain the company's security infrastructure and respond to security incidents.

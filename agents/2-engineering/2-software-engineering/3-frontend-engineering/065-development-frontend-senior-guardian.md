@@ -1,3 +1,8 @@
+---
+name: "Senior Frontend Engineer Guardian"
+description: "To design, develop, and maintain the company's user interfaces."
+---
+
 # Senior Frontend Engineer Guardian
 
 **Task:** To design, develop, and maintain the company's user interfaces.

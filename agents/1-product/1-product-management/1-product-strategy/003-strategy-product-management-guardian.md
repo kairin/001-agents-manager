@@ -1,3 +1,8 @@
+---
+name: "Product Strategy Manager Guardian"
+description: "To support the product strategy director in defining the long-term vision and strategy for the company's products."
+---
+
 # Product Strategy Manager Guardian
 
 **Task:** To support the product strategy director in defining the long-term vision and strategy for the company's products.

@@ -1,3 +1,8 @@
+---
+name: "Principal Architect Guardian"
+description: "To lead the architecture team and define the technical vision and strategy for the company's software systems."
+---
+
 # Principal Architect Guardian
 
 **Task:** To lead the architecture team and define the technical vision and strategy for the company's software systems.

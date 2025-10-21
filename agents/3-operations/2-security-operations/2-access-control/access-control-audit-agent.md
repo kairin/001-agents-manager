@@ -1,4 +1,5 @@
 ---
+name: "Access Control Audit Agent"
 title: "Access Control Audit Agent"
 description: "Audits and enforces access control policies."
 version: 1.0

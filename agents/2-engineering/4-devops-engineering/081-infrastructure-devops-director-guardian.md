@@ -1,3 +1,8 @@
+---
+name: "Director of DevOps Engineering Guardian"
+description: "To lead the DevOps engineering team and ensure the reliability and scalability of the company's infrastructure."
+---
+
 # Director of DevOps Engineering Guardian
 
 **Task:** To lead the DevOps engineering team and ensure the reliability and scalability of the company's infrastructure.

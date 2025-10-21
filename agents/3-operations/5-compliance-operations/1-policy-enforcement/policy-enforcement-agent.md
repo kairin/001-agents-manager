@@ -1,4 +1,5 @@
 ---
+name: "Policy Enforcement Agent"
 title: "Policy Enforcement Agent"
 description: "Automated policy enforcement and compliance monitoring across systems and configurations. Monitors configuration drift, enforces security baselines, and validates compliance with organizational policies."
 version: 1.0

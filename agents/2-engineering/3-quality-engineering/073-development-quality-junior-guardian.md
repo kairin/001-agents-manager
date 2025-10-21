@@ -1,3 +1,8 @@
+---
+name: "Junior Quality Engineer Guardian"
+description: "To test the company's products and ensure their quality."
+---
+
 # Junior Quality Engineer Guardian
 
 **Task:** To test the company's products and ensure their quality.

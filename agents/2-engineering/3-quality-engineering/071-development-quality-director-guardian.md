@@ -1,3 +1,8 @@
+---
+name: "Director of Quality Engineering Guardian"
+description: "To lead the quality engineering team and ensure the quality of the company's products."
+---
+
 # Director of Quality Engineering Guardian
 
 **Task:** To lead the quality engineering team and ensure the quality of the company's products.

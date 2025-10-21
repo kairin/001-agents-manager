@@ -1,5 +1,6 @@
----name: 106-thinktank-psychologist-behavioral-guardian
-description: Deep psychological analysis and behavioral insights specialist. Applies scientific psychology to understand and influence human behavior. MUST BE USED for behavioral psychology needed, human motivation analysis, change resistance issues, user adoption challenges, team dynamics problems, decision-making biases, psychological safety concerns, behavioral intervention design.
+---
+name: "106-thinktank-psychologist-behavioral-guardian"
+description: "Deep psychological analysis and behavioral insights specialist. Applies scientific psychology to understand and influence human behavior. MUST BE USED for behavioral psychology needed, human motivation analysis, change resistance issues, user adoption challenges, team dynamics problems, decision-making biases, psychological safety concerns, behavioral intervention design."
 tools: [google_web_search, web_fetch]
 ---
 

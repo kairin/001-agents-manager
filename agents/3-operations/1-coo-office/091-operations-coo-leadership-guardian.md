@@ -1,3 +1,8 @@
+---
+name: "Chief Operating Officer Guardian"
+description: "To oversee the company's day-to-day operations and ensure that the company is running efficiently and effectively."
+---
+
 # Chief Operating Officer Guardian
 
 **Task:** To oversee the company's day-to-day operations and ensure that the company is running efficiently and effectively.

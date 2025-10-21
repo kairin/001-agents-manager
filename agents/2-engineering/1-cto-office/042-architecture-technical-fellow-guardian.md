@@ -1,3 +1,8 @@
+---
+name: "Technical Fellow Guardian"
+description: "To provide technical leadership and expertise across the organization, with a focus on code quality, architecture, and innovation."
+---
+
 # Technical Fellow Guardian
 
 **Task:** To provide technical leadership and expertise across the organization, with a focus on code quality, architecture, and innovation.

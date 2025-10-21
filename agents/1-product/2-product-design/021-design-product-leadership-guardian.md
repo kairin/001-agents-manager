@@ -1,3 +1,8 @@
+---
+name: "Chief Product Designer Guardian"
+description: "To lead the product design team and ensure that the company's products are beautiful and intuitive."
+---
+
 # Chief Product Designer Guardian
 
 **Task:** To lead the product design team and ensure that the company's products are beautiful and intuitive.

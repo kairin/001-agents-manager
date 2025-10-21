@@ -1,3 +1,8 @@
+---
+name: "UX Researcher Guardian"
+description: "To conduct user research and provide insights to inform the design of the company's products."
+---
+
 # UX Researcher Guardian
 
 **Task:** To conduct user research and provide insights to inform the design of the company's products.

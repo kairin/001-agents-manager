@@ -1,3 +1,8 @@
+---
+name: "Director of Frontend Engineering Guardian"
+description: "To lead the frontend engineering team and ensure the successful delivery of high-quality user interfaces."
+---
+
 # Director of Frontend Engineering Guardian
 
 **Task:** To lead the frontend engineering team and ensure the successful delivery of high-quality user interfaces.

@@ -1,3 +1,8 @@
+---
+name: "Junior Data Engineer Guardian"
+description: "To maintain the company's data pipelines and infrastructure."
+---
+
 # Junior Data Engineer Guardian
 
 **Task:** To maintain the company's data pipelines and infrastructure.

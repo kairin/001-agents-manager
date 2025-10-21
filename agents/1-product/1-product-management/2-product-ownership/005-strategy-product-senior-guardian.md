@@ -1,3 +1,8 @@
+---
+name: "Senior Product Owner Guardian"
+description: "To own the product backlog and ensure that the development team is working on the most important features."
+---
+
 # Senior Product Owner Guardian
 
 **Task:** To own the product backlog and ensure that the development team is working on the most important features.

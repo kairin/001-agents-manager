@@ -1,4 +1,5 @@
 ---
+name: "Audit Trail Agent"
 title: "Audit Trail Agent"
 description: "Comprehensive audit trail management, log analysis, and evidence collection. Centralizes audit logs, monitors compliance events, and generates audit evidence documentation."
 version: 1.0

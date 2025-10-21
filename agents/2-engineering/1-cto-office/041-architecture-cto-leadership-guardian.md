@@ -1,3 +1,8 @@
+---
+name: "Chief Technology Officer Guardian"
+description: "To lead the company's technology strategy, drive innovation, and ensure that the technology infrastructure supports the company's business goals."
+---
+
 # Chief Technology Officer Guardian
 
 **Task:** To lead the company's technology strategy, drive innovation, and ensure that the technology infrastructure supports the company's business goals.

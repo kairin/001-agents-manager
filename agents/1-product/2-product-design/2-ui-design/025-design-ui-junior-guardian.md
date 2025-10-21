@@ -1,3 +1,8 @@
+---
+name: "Junior UI Designer Guardian"
+description: "To support the UI designer in designing beautiful and intuitive user interfaces for the company's products."
+---
+
 # Junior UI Designer Guardian
 
 **Task:** To support the UI designer in designing beautiful and intuitive user interfaces for the company's products.

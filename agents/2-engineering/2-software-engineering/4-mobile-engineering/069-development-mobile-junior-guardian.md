@@ -1,3 +1,8 @@
+---
+name: "Junior Mobile Engineer Guardian"
+description: "To develop and maintain the company's mobile applications."
+---
+
 # Junior Mobile Engineer Guardian
 
 **Task:** To develop and maintain the company's mobile applications.

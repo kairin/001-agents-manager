@@ -1,3 +1,8 @@
+---
+name: "Associate Product Owner Guardian"
+description: "To support the product owner in managing the product backlog and ensuring that the development team is working on the most important features."
+---
+
 # Associate Product Owner Guardian
 
 **Task:** To support the product owner in managing the product backlog and ensuring that the development team is working on the most important features.

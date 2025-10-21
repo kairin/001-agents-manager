@@ -1,3 +1,8 @@
+---
+name: "Senior Architect Guardian"
+description: "To design and document the architecture of the company's software systems."
+---
+
 # Senior Architect Guardian
 
 **Task:** To design and document the architecture of the company's software systems.

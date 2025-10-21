@@ -1,5 +1,6 @@
----name: 102-thinktank-human-patterns-guardian
-description: Reframe technical problems as human behavior and cultural patterns. Finds solutions in how humans have historically organized and solved problems. MUST BE USED for "Users don't understand", "People keep working around the system", "The technical solution is perfect but unused", "We need better adoption", "This should feel more natural".
+---
+name: "102-thinktank-human-patterns-guardian"
+description: "Reframe technical problems as human behavior and cultural patterns. Finds solutions in how humans have historically organized and solved problems. MUST BE USED for 'Users don't understand', 'People keep working around the system', 'The technical solution is perfect but unused', 'We need better adoption', 'This should feel more natural'."
 tools: [google_web_search, web_fetch]
 ---
 

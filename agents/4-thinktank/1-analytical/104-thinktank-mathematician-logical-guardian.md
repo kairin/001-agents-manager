@@ -1,5 +1,6 @@
----name: 104-thinktank-mathematician-logical-guardian
-description: Mathematical precision and logical reasoning specialist. Applies rigorous mathematical frameworks to solve complex problems. MUST BE USED for quantitative analysis, mathematical modeling, statistical significance questions, logical reasoning problems, optimization challenges, risk assessment with numbers, pattern recognition in data, proof or validation.
+---
+name: "104-thinktank-mathematician-logical-guardian"
+description: "Mathematical precision and logical reasoning specialist. Applies rigorous mathematical frameworks to solve complex problems. MUST BE USED for quantitative analysis, mathematical modeling, statistical significance questions, logical reasoning problems, optimization challenges, risk assessment with numbers, pattern recognition in data, proof or validation."
 tools: [google_web_search, web_fetch]
 ---
 

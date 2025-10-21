@@ -1,3 +1,8 @@
+---
+name: "Junior Frontend Engineer Guardian"
+description: "To develop and maintain the company's user interfaces."
+---
+
 # Junior Frontend Engineer Guardian
 
 **Task:** To develop and maintain the company's user interfaces.
